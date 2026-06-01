@@ -1,6 +1,6 @@
 {
     "TabId": "ruby",
-    "TabTitle": "Rubies",
+    "TabTitle": "editorialtool.earth.Rubies",
     "TabIcon": "textures/ui/icons/pixel_icons/ruby",
     "ScreenLayoutQueries": [
         {
