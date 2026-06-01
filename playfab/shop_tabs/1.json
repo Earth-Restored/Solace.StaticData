@@ -1,6 +1,6 @@
 {
     "TabId": "buildplate",
-    "TabTitle": "editorialtool.earth.Buildplates",
+    "TabTitle": "Buildplates",
     "TabIcon": "textures/ui/icons/pixel_icons/buildplate",
     "ScreenLayoutQueries": [
         {

@@ -1,6 +1,6 @@
 {
     "TabId": "boosts",
-    "TabTitle": "editorialtool.earth.Boosts",
+    "TabTitle": "Boosts",
     "TabIcon": "textures/ui/icons/pixel_icons/boost",
     "ScreenLayoutQueries":
     [
