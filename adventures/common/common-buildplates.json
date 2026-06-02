@@ -1,0 +1,9 @@
+{
+  "buildplates": [
+    { "templateId": "e6e84ab3-7374-3445-e57a-14457f0aa51c", "weight": 10 },
+    { "templateId": "ab250be8-1a4c-2ca3-8ea6-c3002a158ef6", "weight": 10 },
+    { "templateId": "87b7ac8f-820c-7d29-27ee-a7ba888f385c", "weight": 10 },
+    { "templateId": "5fdf82c2-5deb-8437-b76c-494b00fb9066", "weight": 10 },
+    { "templateId": "f4a42663-70dd-9dd4-2865-d33e0fbc04c3", "weight": 10 }
+  ]
+}
