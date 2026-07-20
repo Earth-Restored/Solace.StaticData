@@ -1,0 +1,38 @@
+{
+  "Purchasable": true,
+  "Data": {
+    "Type": "InventoryItem",
+    "Id": "038c8034-1d98-96ca-8278-bc69f592549f",
+    "Cost": 12,
+    "Amount": 1,
+    "Rarity": "Rare",
+    "Version": "1.0.0"
+  },
+  "Title": "Mob of Me",
+  "Description": "The Mob of Me is a wonderful item that allows you to place a miniature copy of your character onto Buildplates down to the clothes you are wearing. Multiple Mobs of Me can be placed in a scene to create exciting dioramas!",
+  "ThumbnailImageId": "80c2781c-f8c0-48e0-8f7b-f972d9b3b14c",
+  "CreationDate": "2019-11-05T01:28:58.462Z",
+  "LastModifiedDate": "2021-01-05T17:13:54.442Z",
+  "StartDate": "2019-11-05T01:28:58.462Z",
+  "Id": "c095d219-d568-408e-ac2f-b432be3559a1",
+  "FriendlyId": null,
+  "SourceEntityId": "B63A0803D3653643",
+  "CreatorEntityId": "3B1B443CE3FD8EBA",
+  "Tags": [
+    "c095d219-d568-408e-ac2f-b432be3559a1",
+    "inventoryitem",
+    "earth_discount"
+  ],
+  "Keywords": {},
+  "Contents": [],
+  "ItemReferences": [
+    {
+      "Id": "d9f8c8ef-808a-43d3-862e-b412d4e6e77f",
+      "Amount": 1
+    }
+  ],
+  "TitleTranslations": {
+  },
+  "DescriptionTranslations": {
+  }
+}
