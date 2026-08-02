@@ -1,9 +1,13 @@
 .fabric/
 eula.txt
-fabric-server-mc.*.jar
+server-*.jar
 libraries/
 logs/
-mods/fabric-api-*.jar
 versions/
 world/
 server.properties
+
+mods/fabric-api-*.jar
+mods/ferritecore-*-fabric.jar
+mods/lithium-fabric-mc*.jar
+mods/modernfix-fabric-*.jar
