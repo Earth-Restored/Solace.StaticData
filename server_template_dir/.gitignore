@@ -5,7 +5,11 @@ libraries/
 logs/
 versions/
 world/
+config/
 server.properties
+
+.preDownloadDone
+.setupDone
 
 mods/fabric-api-*.jar
 mods/ferritecore-*-fabric.jar
