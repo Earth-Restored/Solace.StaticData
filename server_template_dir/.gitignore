@@ -8,6 +8,7 @@ world/
 config/
 server.properties
 
+.setupLock
 .preDownloadDone
 .setupDone
 
