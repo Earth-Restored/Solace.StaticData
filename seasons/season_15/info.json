@@ -5,6 +5,15 @@
   "startDate": "2026-10-26T00:00:00Z",
   "endDate": "2026-11-30T00:00:00Z",
   "isActive": true,
+  "translations": {
+    "en_US": {
+      "name": "Season 15: Winter Wonderland",
+      "description": "Season description.",
+      "introBody": "Season intro.",
+      "eventProgress": "Season progress.",
+      "eventComplete": "Season complete."
+    }
+  },
   "exclusiveRewards": {
     "rubies": 50,
     "experiencePoints": 500,
@@ -24,6 +33,11 @@
       "order": 1,
       "totalThreshold": 1,
       "objectiveType": "TappableCollected",
+      "translations": {
+        "en_US": {
+          "description": "Collect a tappable"
+        }
+      },
       "rewards": {
         "rubies": 10,
         "experiencePoints": 100,
@@ -37,19 +51,24 @@
     },
     {
       "id": "00e42153-5d8c-412b-816d-029364ed281a",
-      "parentId": "6fd27c21-72b8-4d14-adf8-35c078913943",
       "prerequisiteIds": [
         "6fd27c21-72b8-4d14-adf8-35c078913943"
       ],
       "order": 4,
       "totalThreshold": 2,
       "objectiveType": "TappableCollected",
+      "translations": {
+        "en_US": {
+          "description": "Collect a tappable",
+          "descriptionMultiple": "Collect %d tappables"
+        }
+      },
       "rewards": {
         "rubies": 15,
         "experiencePoints": 150,
         "inventory": [
           {
-            "id": "111637af-d42d-133c-cefe-184442d230ca",
+            "id": "8765f3ca-41b4-455e-a8b6-81358e250ee1",
             "amount": 5
           }
         ]
@@ -57,36 +76,42 @@
     },
     {
       "id": "6b8d0a91-2561-4cc4-81a3-c8bec0b87655",
-      "parentId": "00e42153-5d8c-412b-816d-029364ed281a",
       "prerequisiteIds": [
         "00e42153-5d8c-412b-816d-029364ed281a"
       ],
       "order": 7,
       "totalThreshold": 3,
       "objectiveType": "TappableCollected",
+      "translations": {
+        "en_US": {
+          "description": "Collect a tappable",
+          "descriptionMultiple": "Collect %d tappables"
+        }
+      },
       "rewards": {
         "rubies": 20,
         "experiencePoints": 200,
         "inventory": [
           {
-            "id": "d129857c-2182-ed2e-a42e-5857d527f456",
-            "amount": 16
+            "id": "408bb17b-da92-0cea-7496-ee01c6a542d7",
+            "amount": 1
           }
-        ],
-        "personaItems": [
-          "230f5996-04b2-4f0e-83e5-4056c7f1d946"
         ]
       }
     },
     {
       "id": "6adb159a-3be3-4e41-9e0e-fb96f52733be",
-      "parentId": "6b8d0a91-2561-4cc4-81a3-c8bec0b87655",
       "prerequisiteIds": [
         "6b8d0a91-2561-4cc4-81a3-c8bec0b87655"
       ],
       "order": 10,
       "totalThreshold": 1,
       "objectiveType": "SeasonCapstone",
+      "translations": {
+        "en_US": {
+          "description": "Super prize unlocked"
+        }
+      },
       "rewards": {
         "rubies": 50,
         "experiencePoints": 500,
